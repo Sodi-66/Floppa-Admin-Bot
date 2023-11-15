@@ -4,7 +4,7 @@ import content_types  # Импортируем модуль с content_types
 import commands  # Импортируем модуль с логикой команд
 
 
-tg_token = '6111629120:AAGIK6PhWBL6lTLeKhXRTbZ-H55Mg-7Y8Fs'
+tg_token = 'kekw'
 
 bot = telebot.TeleBot(tg_token)
 
